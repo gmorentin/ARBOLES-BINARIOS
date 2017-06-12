@@ -1,0 +1,9 @@
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\bin\Debug\ARBOLES BINARIOS.exe.config
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\bin\Debug\ARBOLES BINARIOS.exe
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\bin\Debug\ARBOLES BINARIOS.pdb
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\obj\Debug\ARBOLES BINARIOS.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\obj\Debug\ARBOLES_BINARIOS.Form1.resources
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\obj\Debug\ARBOLES_BINARIOS.Properties.Resources.resources
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\obj\Debug\ARBOLES BINARIOS.csproj.GenerateResource.Cache
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\obj\Debug\ARBOLES BINARIOS.exe
+C:\Users\Gustavo Morentin\Desktop\ARBOLES BINARIOS\ARBOLES BINARIOS\obj\Debug\ARBOLES BINARIOS.pdb
