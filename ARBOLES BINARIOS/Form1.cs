@@ -21,7 +21,17 @@ namespace ARBOLES_BINARIOS
 
         private void btnEvaluar_Click(object sender, EventArgs e)
         {
-            arbol.Evaluar(txtExpresion.Text);
+            string Datos = txtExpresion.Text;
+            char[] cadena = Datos.ToCharArray();
+            foreach (char ch in cadena)
+            {
+                Nodo nuevo = new Nodo();
+                nuevo._dato = ch;
+                arbol.Agregar(nuevo);
+            }
+            arbol.Evaluar();
+            txtPreOrden.Text = arbol.PreOrden();
+            txtPostOrden.Text = arbol.PostOrden();
         }
 
         private void btnPreOrden_Click(object sender, EventArgs e)
@@ -31,7 +41,7 @@ namespace ARBOLES_BINARIOS
 
         private void btnPostOrden_Click(object sender, EventArgs e)
         {
-            txtResultadoPost.Text = arbol.PostOrden2(txtPostOrden.Text);
+            txtResultadoPost.Text = arbol.PostOrden(txtPostOrden.Text);
         }
     }
 }
